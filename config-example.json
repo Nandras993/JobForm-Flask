@@ -1,0 +1,9 @@
+{
+  "SECRET_KEY": "your_app_key",
+  "SQLALCHEMY_DATABASE_URI": "your_database_for_example: sqlite:///your_data.db ",
+  "MAIL_SERVER": "your_email_server_for_example: smtp.gmail.com",
+  "MAIL_PORT": "port_of_your_email_server_as_INTEGER",
+  "MAIL_USE_SSL": "True_or_False",
+  "MAIL_USERNAME": "your_email",
+  "MAIL_PASSWORD":"your_security_key"
+}
