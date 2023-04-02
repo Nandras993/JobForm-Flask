@@ -3,3 +3,4 @@ venv
 /links/
 /config.json
 data.db
+/instance/
